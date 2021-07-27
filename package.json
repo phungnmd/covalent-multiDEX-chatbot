@@ -1,0 +1,23 @@
+{
+  "name": "covalent-multidex-chatbot",
+  "version": "1.0.0",
+  "description": "covalent-multiDEX-chatbot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phungnm/covalent-multiDEX-chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phungnm/covalent-multiDEX-chatbot/issues"
+  },
+  "homepage": "https://github.com/phungnm/covalent-multiDEX-chatbot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
