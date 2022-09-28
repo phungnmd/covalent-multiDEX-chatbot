@@ -1,5 +1,5 @@
 # Covalent MultiDEX Chatbot - Telegram
-A telegram chatbot help to provide exchange, liquidity, swap and other granular and historical data for multi DEX like Sushiswap, Quickswap,...
+A telegram chatbot helps to provide exchange, liquidity, swap and other granular and historical data for multi DEX like Sushiswap, Quickswap,...
 
 - Easy to access
 - Easy to share 
